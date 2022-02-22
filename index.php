@@ -49,7 +49,6 @@
                 </a>
                 <div id="text-box-img">
                   <p class="text-contain">
-                    En liten endring <br>
                     Vi er en mellomstor bedrift med stadig nye og spennende prosjekter på gang. Her får du et lite innblikk i vår hverdag.
                      <br><br>
                   </p>
