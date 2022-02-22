@@ -1,0 +1,9 @@
+
+
+
+Brukernavn: 113605_horsesforsale
+Databasenavn: 113605_horsesforsale
+Vert: sql31.mcb.webhuset.no
+Passord: vafroDRE994
+
+INSERT INTO `userinfo` (`id`, `firstname`, `lastname`, `adress`, `zipcode`, `username`, `pword`, `email`, `filelocation`, `filename`, `uploadeddate`) VALUES (NULL, NULL, NULL, NULL, NULL, 'annikenkasa', 'snowy1995', NULL, NULL, NULL, NULL);

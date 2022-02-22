@@ -1,0 +1,87 @@
+kan ha hover på <a> rundt hvert hovedbilde på hver side, der man får opp en link til en annen side. 
+Må ha referanser - kundeanmeldeldelser/vurderinger, og sertfifiseringer/godkjenninger
+
+
+#nav-desktop li
+/* gjør knappene svarte*/
+ 
+    /* float: right; */
+    /* padding-right: 22px; */
+    /* padding-top: 26px; */
+    width: 100%;
+    /* background-color: black; */
+    font-size: 125%;
+    padding: 1.3rem;
+    /* border-top: 2px solid black; */
+    text-align: center;
+    border-bottom: 2px solid white;
+    background: black;
+    /* padding-right: 33px; */
+    opacity: 0.8;
+
+
+
+
+
+
+/* Kode som kan være interessant..? */
+
+
+/* @media screen (min-width: 999px) and (max-width: 480px) {
+  .animation {
+    height: 404px;
+  }
+} */
+/* .animation { */
+  /* height: 404px; */
+  /* background-image: url(../images/escavator-closeup.JPG);
+  animation: magic-slideshow 15s infinite linear;
+  height: 510px;
+  /* background-size: cover; */
+  /* background: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain; */
+  /* top: 100px; */
+  /* margin-bottom: 300px; */
+  /* height: 404px;  */
+      /* background-image: url(../images/escavator-closeup.JPG);
+      animation: magic-slideshow 15s infinite linear;
+      height: 485px;
+      background-size: cover;
+      /* background: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      /* background-position: top;
+      background-size: contain;
+      /* top: 100px; */
+      /* margin-bottom: 300px;
+      transition: 0.6s;
+
+}*/
+/* @media (min-width: 1024px) {
+  .animation {
+    width: 1024px;
+        /* height: 479px; */
+        /* background-attachment: fixed; */
+        /* width: -webkit-fill-available; */
+        /* background-attachment: fixed;*/
+    /* height: 100%; */
+    /* float: right; */
+    /* display: block; */
+    /* position: initial; */
+    /* background-size: cover; */
+
+.section-element {
+    /* background-image: url(../images/escavator-closeup.JPG); */
+    /* background-size: cover; */
+    /* background-repeat: no-repeat;
+    background-image: url(../images/banner4620.JPG);
+    background-position: center center;
+    min-height: 43rem; */
+    /* height: auto; */
+    /* background-size: cover; */
+    /* background-attachment: fixed;
+    background-position: bottom; */
+}
