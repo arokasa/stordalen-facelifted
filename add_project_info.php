@@ -195,4 +195,8 @@ $db = mysqli_connect('localhost', 'test', '95749', 'root@localhost');
 </body>
 </html>
 
-<?php       }   ?>
+<?php
+
+}
+
+?>
