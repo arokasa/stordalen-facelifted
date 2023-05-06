@@ -971,7 +971,7 @@ img.footer-logo {
 }
 
 .animation-1 {
-  background-image: url(../stordalen-entreprenor/images/gjengen.JPG);
+  background-image: url(../stordalen-entreprenor/images/gjengen_laagendalsposten.jpg);
   height: 700px;
   background-position: center;
   -moz-background-size: cover;
@@ -1037,7 +1037,6 @@ img.footer-logo {
   margin-top: 45px;
   background-color: #231F1E;
   color: #FDFDFD;
-  width: 100%;
   border: 0;
   padding: 13%;
   width: 109%;
@@ -1065,7 +1064,8 @@ img.footer-logo {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: contain;
-  /* border-top: 8px solid #EC1A23; */
+  background-color: #231F1E;
+
 }
 .module-img-left {
   background-position: left;
@@ -1075,7 +1075,9 @@ img.footer-logo {
   background-attachment: fixed;
   background-size: contain;
   width: 102%;
-  /* border-top: 8px solid #EC1A23; */
+  background-color: #231F1E;
+  background-blend-mode: difference;
+
 }
 .img-module-container-img-right {
   float: right;

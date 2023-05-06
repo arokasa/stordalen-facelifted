@@ -3,16 +3,10 @@
 $page = 'kontakt';
 include('header.php'); ?>
 
-<!-- Image slideshow START -->
 <title>Kontakt oss | Stordalen Entreprenør</title>
-<!-- <div class="animated-container">
-  <div class="animation-1"></div>
-</div> -->
 <div class="animated-container">
     <div class="animation-1"></div>
 </div>
-<!-- Image slideshow END -->
-<!-- Main-content START -->
 <div class="main" id="main">
     <div class="about om-oss">
         <div class="container">
