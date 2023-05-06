@@ -51,7 +51,7 @@ include('header.php'); ?>
     </div>
     <div class="img-module-container-img-right">
         <div class="container upper">
-            <div class="module-img-right" style="background-image: url(img/P6030610.JPG);"></div>
+            <div class="module-img-right" style="background-image: url(img/P6031332-3.JPG);"></div>
         </div>
     </diV>
     <div class="about om-oss">

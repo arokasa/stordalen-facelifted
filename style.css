@@ -1066,6 +1066,7 @@ img.footer-logo {
   background-size: contain;
   background-color: #231F1E;
 
+
 }
 .module-img-left {
   background-position: left;
@@ -1076,7 +1077,6 @@ img.footer-logo {
   background-size: contain;
   width: 102%;
   background-color: #231F1E;
-  background-blend-mode: difference;
 
 }
 .img-module-container-img-right {
@@ -1094,6 +1094,14 @@ img.footer-logo {
 }
 .upper {
   width: 98%;
+}
+.normal-link {
+  text-transform: none;
+  color: white;
+  transition: 0.6s ease;
+}
+.normal-link:hover {
+  color: #818181;
 }
 .img-text-module-container-left {
   float: right;
