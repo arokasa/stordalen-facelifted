@@ -16,7 +16,7 @@ include('header.php'); ?>
     </div>
     <div class="img-module-container-img-right">
         <div class="container upper">
-            <div class="module-img-right" style="background-image: url(../stordalen-entreprenor/images/fornøyde_ansatte-2.JPG);"></div>
+            <div class="module-img-right" style="background-image: url(img/_8276122.JPG);"></div>
         </div>
     </diV>
     <div class="about om-oss">
@@ -31,7 +31,11 @@ include('header.php'); ?>
     </div>
     <div class="img-module-container-img-left">
         <div class="container lower">
-            <div class="module-img-left" style="background-image: url(../stordalen-entreprenor/images/P6030050-1.JPG);"></div>
+<!--            <div class="module-img-left" style="background-image: url(../stordalen-entreprenor/images/P6030050-1.JPG);"></div>-->
+<!--            <div class="module-img-left" style="background-image: url(images/firmabil.JPG);">-->
+            <div class="module-img-left" style="background-image: url(img/P6030050.JPG);">
+<!--                <img src="images/firmabil.JPG" class="module-img-left" alt="gravemaskin"/>-->
+            </div>
         </div>
     </diV>
     <div class="about om-oss">
@@ -47,7 +51,7 @@ include('header.php'); ?>
     </div>
     <div class="img-module-container-img-right">
         <div class="container upper">
-            <div class="module-img-right" style="background-image: url(../stordalen-entreprenor/images/P6031129-2.JPG);"></div>
+            <div class="module-img-right" style="background-image: url(img/P6030610.JPG);"></div>
         </div>
     </diV>
     <div class="about om-oss">

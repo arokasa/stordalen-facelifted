@@ -18,7 +18,10 @@ include('header.php'); ?>
         <div class="img-link-contain">
             <h2 class="title"><a class="h2_title" href="om-oss.php" target="_blank" rel="noopener noreferrer">Om oss</a></h2>
             <a href="om-oss.php" target="_blank" rel="noopener noreferrer">
-                <img src="images/1-lastebil-3.JPG" class="box-image" alt="gravemaskin"/>
+                <img src="img/P6030494.JPG" class="box-image" alt="gravemaskin"/>
+                <!-- <img src="images/firmabil.JPG" class="box-image" alt="gravemaskin"/> -->
+
+
             </a>
             <div id="text-box-img">
                 <p class="text-contain">
@@ -32,7 +35,8 @@ include('header.php'); ?>
         <div class="img-link-contain">
             <h2 class="title"><a class="h2_title" href="kontakt.php" target="_blank" rel="noopener noreferrer">Kontakt oss</a></h2>
             <a href="kontakt.php" target="_blank" rel="noopener noreferrer">
-                <img src="images/firmabil.JPG" class="box-image" alt="gravemaskin"/>
+                <img src="img/P6030675.JPG" class="box-image" alt="gravemaskin"/> 
+
             </a>
             <div id="text-box-img">
                 <p class="text-contain">
@@ -47,11 +51,12 @@ include('header.php'); ?>
         <div class="img-link-contain">
             <h2 class="title"><a class="h2_title" href="prosjekter.php" target="_blank" rel="noopener noreferrer">Prosjekter</a></h2>
             <a href="prosjekter.php" target="_blank" rel="noopener noreferrer">
-                <img src="images/banner5600.JPG" class="box-image" alt="gravemaskin"/>
+                <!-- <img src="images/banner5600.JPG" class="box-image" alt="gravemaskin"/> -->
+                <img src="img/_8276346-0.JPG" class="box-image" alt="gravemaskin"/>
             </a>
             <div id="text-box-img">
                 <p class="text-contain">
-                    Vi har gode referanser fra tidligere større og mindre prosjekter - både for stat, kommune og private byggherer.<br><br>
+                    Vi er stadig i nye og spennende oppdrag. Her finner du informasjon om noen av våre prosjekter.<br><br>
                 </p>
             </div>
             <div class="read-more-link">
@@ -61,11 +66,12 @@ include('header.php'); ?>
         <div class="img-link-contain">
             <h2 class="title"><a class="h2_title" href="galleri.php" target="_blank" rel="noopener noreferrer">Bildegalleri</a></h2>
             <a href="galleri.php" target="_blank" rel="noopener noreferrer">
-                <img src="images/P6031221.JPG" class="box-image" alt="gravemaskin"/>
+                <!-- <img src="images/P6031221.JPG" class="box-image" alt="gravemaskin"/> -->
+                <img src="img/P6031221.JPG" class="box-image" alt="gravemaskin"/>
             </a>
             <div id="text-box-img">
                 <p class="text-contain">
-                    Vi er en mellomstor bedrift med stadig nye og spennende prosjekter på gang. Her får du et lite innblikk i vår hverdag.
+                    Vi er en mellomstor bedrift der det aldri er kjedelig. Her får du et lite innblikk i vår hverdag.
                     <br><br>
                 </p>
             </div>
@@ -75,7 +81,8 @@ include('header.php'); ?>
         </div>
     </div>
 
-    <div class="section-element" style="background-image: url(../stordalen-entreprenor/images/_8277185-3.JPG);"></div>
+    <!-- <div class="section-element" style="background-image: url(../stordalen-entreprenor/images/_8277185-3.JPG);"></div> -->
+    <!-- <div class="section-element" style="background-image: url(images/originals/_8277185-3.JPG);"></div> -->
 
     <div class="dark-box">
         <div class="reviews">
@@ -126,8 +133,8 @@ include('header.php'); ?>
         </div>
     </div>
 
-    <div class="section-element" style="background-image: url(../stordalen-entreprenor/images/P6030702_2.JPG);"></div>
-    <!-- <div class="section-element" style="background-image: url(../stordalen-entreprenor/images/fjellboring_1.JPG);"></div> -->
+    <!-- <div class="section-element" style="background-image: url(../stordalen-entreprenor/images/P6030702_2.JPG);"></div> -->
+    <div class="section-element" style="background-image: url(img/P6030700.JPG);"></div>
 
 
 
