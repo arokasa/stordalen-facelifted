@@ -35,7 +35,7 @@ include('header.php'); ?>
         <div class="img-link-contain">
             <h2 class="title"><a class="h2_title" href="kontakt.php" target="_blank" rel="noopener noreferrer">Kontakt oss</a></h2>
             <a href="kontakt.php" target="_blank" rel="noopener noreferrer">
-                <img src="img/P6030675.JPG" class="box-image" alt="gravemaskin"/> 
+                <img src="img/_8277742.JPG" class="box-image" alt="gravemaskin"/> 
 
             </a>
             <div id="text-box-img">
