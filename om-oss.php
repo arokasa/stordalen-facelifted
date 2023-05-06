@@ -33,7 +33,7 @@ include('header.php'); ?>
         <div class="container lower">
 <!--            <div class="module-img-left" style="background-image: url(../stordalen-entreprenor/images/P6030050-1.JPG);"></div>-->
 <!--            <div class="module-img-left" style="background-image: url(images/firmabil.JPG);">-->
-            <div class="module-img-left" style="background-image: url(img/P6030488.JPG);">
+            <div class="module-img-left" style="background-image: url(img/P6030050.JPG);">
 <!--                <img src="images/firmabil.JPG" class="module-img-left" alt="gravemaskin"/>-->
             </div>
         </div>
