@@ -68,7 +68,7 @@
                                 <a href="kontakt.php">Kontakt</a>
                             </li>
                             <li class="nav-mobile-item <?php if($page=='hjem'){echo 'active';}?>" id="nav-mobile-item">
-                                <a href="/">Hjem</a>
+                                <a href="index.php">Hjem</a>
                             </li>
                         </ul>
                     </div>
@@ -92,7 +92,7 @@
                         <a href="kontakt.php">Kontakt</a>
                     </li>
                     <li class="nav-item <?php if($page=='hjem'){echo 'active';}?>" id="nav-item">
-                        <a href="/">Hjem</a>
+                        <a href="index.php">Hjem</a>
                     </li>
                 </ul>
             </nav>

@@ -49,25 +49,10 @@ include('header.php'); ?>
             </div>
         </div>
         <div class="img-link-contain">
-            <h2 class="title"><a class="h2_title" href="prosjekter.php" target="_blank" rel="noopener noreferrer">Prosjekter</a></h2>
-            <a href="prosjekter.php" target="_blank" rel="noopener noreferrer">
-                <!-- <img src="images/banner5600.JPG" class="box-image" alt="gravemaskin"/> -->
-                <img src="img/_8276346-0.JPG" class="box-image" alt="gravemaskin"/>
-            </a>
-            <div id="text-box-img">
-                <p class="text-contain">
-                    Vi er stadig i nye og spennende oppdrag. Her finner du informasjon om noen av våre prosjekter.<br><br>
-                </p>
-            </div>
-            <div class="read-more-link">
-                <a href="om-oss.php" target="_blank" rel="noopener noreferrer">Til prosjektene &#8594;</a>
-            </div>
-        </div>
-        <div class="img-link-contain">
             <h2 class="title"><a class="h2_title" href="galleri.php" target="_blank" rel="noopener noreferrer">Bildegalleri</a></h2>
             <a href="galleri.php" target="_blank" rel="noopener noreferrer">
-                <!-- <img src="images/P6031221.JPG" class="box-image" alt="gravemaskin"/> -->
-                <img src="img/P6031221.JPG" class="box-image" alt="gravemaskin"/>
+                <!-- <img src="images/banner5600.JPG" class="box-image" alt="gravemaskin"/> -->
+                <img src="img/_8276346-0.JPG" class="box-image" alt="gravemaskin"/>
             </a>
             <div id="text-box-img">
                 <p class="text-contain">
@@ -76,7 +61,23 @@ include('header.php'); ?>
                 </p>
             </div>
             <div class="read-more-link">
-                <a href="galleri.php" target="_blank" rel="noopener noreferrer">Til bildegalleriet &#8594;</a>
+                <a href="om-oss.php" target="_blank" rel="noopener noreferrer">Til bildegalleriet &#8594;</a>
+            </div>
+        </div>
+        <div class="img-link-contain">
+            <h2 class="title"><a class="h2_title" href="karriere.php" target="_blank" rel="noopener noreferrer">Karriere</a></h2>
+            <a href="karriere.php" target="_blank" rel="noopener noreferrer">
+                <!-- <img src="images/P6031221.JPG" class="box-image" alt="gravemaskin"/> -->
+                <img src="img/P6031221.JPG" class="box-image" alt="gravemaskin"/>
+            </a>
+            <div id="text-box-img">
+                <p class="text-contain">
+                    Stordalen Entreprenør AS er godkjent lærebedrift. Enten du er lærling eller har erfaring, finnes det muligheter hos oss.
+                    <br><br>
+                </p>
+            </div>
+            <div class="read-more-link">
+                <a href="karriere.php" target="_blank" rel="noopener noreferrer">Les mer her &#8594;</a>
             </div>
         </div>
     </div>
@@ -126,9 +127,10 @@ include('header.php'); ?>
                     </blockquote>
                 </div>
             </div>
-            <a href="https://www.facebook.com/Stordalen-Entrepren%C3%B8r-As-365350660208729/reviews/?ref=page_internal" target="_blank" rel="noopener noreferrer">
-                <!-- <a href="bildegalleri.php" target="_blank" rel="noopener noreferrer"> -->
-                <h2 class="review-link">Les flere av våre anmeldelser på Facebook &#8594;</h2>
+            <a href="https://www.facebook.com/people/Stordalen-Entrepren%C3%B8r-As/100059758095403/?sk=reviews" target="_blank" rel="noopener noreferrer">
+                <h2 class="goto-reviews redline">   
+                    Les flere av våre anmeldelser på Facebook &#8594;
+                </h2>
             </a>
         </div>
     </div>
