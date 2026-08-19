@@ -24,6 +24,7 @@
             <a href="kontakt.php">Kontakt</a><br>
             <a href="om-oss.php">Om oss</a><br>
             <a href="karriere.php">Karriere</a><br>
+            <a href="vart-miljoarbeid.php">Vårt miljøarbeid</a><br>
             <a href="galleri.php">Bildegalleri</a><br>
         </div>
         <div class="footer-item links">

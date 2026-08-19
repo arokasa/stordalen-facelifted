@@ -129,6 +129,9 @@ h1, h2, h3, h4, h5 {
   display: flow;
 }
 
+.miljo:hover {
+  text-decoration: underline;
+}
 a.goto-reviews {
   font-size: 21px;
   top: 52px;

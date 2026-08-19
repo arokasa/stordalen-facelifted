@@ -144,7 +144,8 @@ include('header.php'); ?>
         <div class="centered-dark-content">
             <h2 class="title-center light">Sertifiseringer</h2>
             <div class="centered-icon">
-                <img src="images/miljofyrtarn.png" class="full-icon" alt="miljøfyrtårn"/>
+                <!-- <img src="images/miljofyrtarn.png" class="full-icon" alt="miljøfyrtårn"/> -->
+                <img src="images/miljøfyrtaarn-logo_2026.png" class="full-icon" alt="miljøfyrtårn"/>
                 <img src="images/mef-logo.png" class="full-icon" alt="mef"/>
                 <img src="images/startbank.png" class="full-icon wider" alt="startbank"/>
                 <img src="images/sentralt_godkjent.png" class="full-icon" alt="ansvarsrett" style="max-width: 17%;"/>
