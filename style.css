@@ -344,17 +344,17 @@ img.logo {
 }
 
 @keyframes magic-slideshow {
-  0%{ background-image: url(../images/banner3420.JPG); } /* gravemaskin og matte*/
-  10%{ background-image: url(../images/banner3420.JPG); }
-  20%{ background-image: url(../images/banner3420.JPG); }
-  30%{ background-image: url(../images/banner2615.JPG); }
-  40%{ background-image: url(../images/banner2615.JPG); }
-  50%{ background-image: url(../images/banner2615.JPG); }
-  60%{ background-image: url(../images/banner3916.JPG); }
-  70%{ background-image: url(../images/banner3916.JPG); }
-  80%{ background-image: url(../images/banner3916.JPG); }
-  90%{ background-image: url(../images/banner3916.JPG); }
-  100%{ background-image: url(../images/banner3420.JPG); }
+  0%{ background-image: url(images/banner3420.JPG); } /* gravemaskin og matte*/
+  10%{ background-image: url(images/banner3420.JPG); }
+  20%{ background-image: url(images/banner3420.JPG); }
+  30%{ background-image: url(images/banner2615.JPG); }
+  40%{ background-image: url(images/banner2615.JPG); }
+  50%{ background-image: url(images/banner2615.JPG); }
+  60%{ background-image: url(images/banner3916.JPG); }
+  70%{ background-image: url(images/banner3916.JPG); }
+  80%{ background-image: url(images/banner3916.JPG); }
+  90%{ background-image: url(images/banner3916.JPG); }
+  100%{ background-image: url(images/banner3420.JPG); }
 }
 /* FOOTER STUFF */
 .footer-desktop {
@@ -393,9 +393,9 @@ img.logo {
   transition: 0.5s;
   text-decoration: underline;
 }
-.karriere .container {
+/* .karriere .container {
   /* width: 94%; */
-}
+/* }  */
 .karriere a:hover {
   color: initial;
 }
@@ -896,7 +896,7 @@ li .nav-mobile-item {
 }
 .animated-container {
   max-width: 1400px;
-  background-image: url(images/escavator-closeup.JPG);
+  /* background-image: url(images/escavator-closeup.JPG); */
 
 }
 /* -------------------------------------------------------------------------------- */
@@ -957,7 +957,8 @@ img.footer-logo {
     -o-background-size: cover;
     -webkit-background-size: cover;
     background-size: cover;
-    animation: 0;
+    animation: 0; /* this removes the animation effect
+    and uses the background-image instead */
   }
   .full-icon {
     width: 20%;
@@ -992,17 +993,15 @@ img.footer-logo {
 }
 
 .animation-1 {
-  /* background-image: url(images/gjengen_laagendalsposten.jpg);
-   */
-    background-image: url(images/escavator-closeup.JPG);
-
+  /* background-image: url(images/gjengen_laagendalsposten.jpg);*/
+  background-image: url(images/escavator-closeup.JPG); /* backup-image */
   height: 700px;
   background-position: center;
   -moz-background-size: cover;
   -o-background-size: cover;
   -webkit-background-size: cover;
   background-size: cover;
-  animation: 0;
+  /* animation: 0; // COMMENT: Setting this to 0 removes the animation effect */ 
 }
 .section-element {
   background-image: url(images/escavator-closeup.JPG);
@@ -1734,3 +1733,60 @@ body, html {
   width: 100%;
   max-width: 1400px;
 }
+
+
+.animation {
+  height: 404px;
+  background-image: url(images/escavator-closeup.JPG);
+  animation: magic-slideshow 15s infinite linear;
+  height: 510px;
+  background-size: cover;
+  background: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: contain;
+  top: 100px; 
+  margin-bottom: 300px;
+  height: 404px; 
+      background-image: url(../images/escavator-closeup.JPG);
+      animation: magic-slideshow 15s infinite linear;
+      height: 485px;
+      background-size: cover;
+      background: center;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-position: top;
+      background-size: contain;
+      top: 100px; 
+      margin-bottom: 300px;
+      transition: 0.6s;
+
+}
+@media (min-width: 1024px) {
+  .animation {
+    width: 1024px;
+        height: 479px;
+        background-attachment: fixed;
+        width: -webkit-fill-available;
+        background-attachment: fixed;
+    height: 100%;
+    float: right;
+    display: block;
+    position: initial;
+    background-size: cover;
+  }
+  .section-element {
+      background-image: url(../images/escavator-closeup.JPG);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-image: url(../images/banner4620.JPG);
+      background-position: center center;
+      min-height: 43rem;
+      height: auto;
+      background-size: cover;
+      background-attachment: fixed;
+      background-position: bottom;
+  }
+}
+
