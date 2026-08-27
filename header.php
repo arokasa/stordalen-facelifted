@@ -52,18 +52,15 @@
                 <div class="overlay" id="overlay">
                     <div class="overlay-content" id="overlay-content">
                         <ul>
-                            <!-- <li class="nav-mobile-item <?php if($page=='galleri'){echo 'active';}?>" id="nav-mobile-item">
+                            <li class="nav-mobile-item <?php if($page=='galleri'){echo 'active';}?>" id="nav-mobile-item">
                                 <a href="galleri.php">Bildegalleri</a>
-                            </li> -->
+                            </li>
                             <li class="nav-mobile-item <?php if($page=='vart-miljoarbeid'){echo 'active';}?>" id="nav-mobile-item">
                                 <a href="vart-miljoarbeid.php">Vårt miljøarbeid</a>
                             </li>
                             <li class="nav-mobile-item <?php if($page=='karriere'){echo 'active';}?>" id="nav-mobile-item">
                                 <a href="karriere.php">Karriere</a>
                             </li>
-                            <!-- <li class="nav-mobile-item <?php if($page=='prosjekter'){echo 'active';}?>" id="nav-mobile-item">
-                                <a href="prosjekter.php">Prosjekter</a>
-                            </li> -->
                             <li class="nav-mobile-item <?php if($page=='om-oss'){echo 'active';}?>" id="nav-mobile-item">
                                 <a href="om-oss.php">Om oss</a>
                             </li>
@@ -79,18 +76,15 @@
             </div>
             <nav class="mainmenu" id="mainmenu">
                 <ul>
-                    <!-- <li class="nav-item <?php if($page=='galleri'){echo 'active';}?>" id="nav-item">
+                    <li class="nav-item <?php if($page=='galleri'){echo 'active';}?>" id="nav-item">
                         <a href="galleri.php">Bildegalleri</a>
-                    </li> -->
+                    </li>
                     <li class="nav-item <?php if($page=='vart-miljoarbeid'){echo 'active';}?>" id="nav-item">
                         <a href="vart-miljoarbeid.php">Vårt miljøarbeid</a>
                     </li>
                     <li class="nav-item <?php if($page=='karriere'){echo 'active';}?>" id="nav-item">
                         <a href="karriere.php">Karriere</a>
                     </li>
-                    <!-- <li class="nav-item <?php if($page=='prosjekter'){echo 'active';}?>" id="nav-item">
-                        <a href="prosjekter.php">Prosjekter</a>
-                    </li> -->
                     <li class="nav-item <?php if($page=='om-oss'){echo 'active';}?>" id="nav-item">
                         <a href="om-oss.php">Om oss</a>
                     </li>

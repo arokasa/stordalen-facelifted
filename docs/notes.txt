@@ -34,7 +34,7 @@ Må ha referanser - kundeanmeldeldelser/vurderinger, og sertfifiseringer/godkjen
 } */
 /* .animation { */
   /* height: 404px; */
-  /* background-image: url(../images/escavator-closeup.JPG);
+  /* background-image: url(images/escavator-closeup.JPG);
   animation: magic-slideshow 15s infinite linear;
   height: 510px;
   /* background-size: cover; */

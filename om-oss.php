@@ -14,6 +14,7 @@ include('header.php'); ?>
             <div class="keyitem first"></div>
         </div>
     </div>
+<!-- <div class="separate"> -->
     <div class="img-module-container-img-right">
         <div class="container upper">
             <div class="module-img-right" style="background-image: url(img/_8276122.JPG);"></div>
@@ -63,6 +64,7 @@ include('header.php'); ?>
             </div>
         </div>
     </div>
+    <!-- <div class="separate"> -->
 
 </div>
 

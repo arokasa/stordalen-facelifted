@@ -3,14 +3,33 @@ $page = 'hjem';
 include('header.php'); ?>
 <!-- Image slideshow START -->
 <title>Stordalen Entreprenør AS</title>
-<!-- <div class="banner">
-  <img src="images/escavator-closeup.JPG" class="main-banner">
-</div> -->
-<div class="animated-container">
-    <div class="animation-1">
+    <div class="animated-container">
+        <div class="animation-1"></div>
     </div>
-</div>
+
+
+<!-- <div class="banner"> -->
+  <!-- <img src="images/escavator-closeup.JPG" class="main-banner"> -->
+<!-- </div> -->
+
+
+      <!-- Image slideshow START -->
+
+      <!-- Image slideshow END -->
+
+
+<!-- <div class="animated-container"> -->
+    <!-- <div class="animation-1">
+        <img src="images/escavator-closeup.JPG"> -->
+
+    <!-- </div>  -->
+<!-- </div> -->
+
+
 <!-- Image slideshow END -->
+<!-- Main-content START -->
+<div class="main" id="main">
+
 <!-- Main-content START -->
 <div class="main" id="main">
 
@@ -154,7 +173,7 @@ include('header.php'); ?>
     </div>
 
 
-
+</div>
 </div>
 <!-- Main-content END -->
 
