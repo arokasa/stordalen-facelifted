@@ -861,13 +861,13 @@ li .nav-mobile-item {
   }
 }
 .animation {
-  background-image: url(../images/escavator-closeup.JPG);
+  background-image: url(images/escavator-closeup.JPG);
   animation: magic-slideshow 15s infinite linear;
   background-size: cover;
   background-repeat: no-repeat;
 }
 .animation-1 {
-  background-image: url(../images/escavator-closeup.JPG);
+  background-image: url(images/escavator-closeup.JPG);
   animation: magic-slideshow 15s infinite linear;
   min-height: 200px;
   height: auto;
@@ -896,6 +896,8 @@ li .nav-mobile-item {
 }
 .animated-container {
   max-width: 1400px;
+  background-image: url(images/escavator-closeup.JPG);
+
 }
 /* -------------------------------------------------------------------------------- */
 
@@ -948,7 +950,7 @@ img.footer-logo {
 @media (min-width:50px) and (max-width:1032px) {
   .animation-1 {
     max-height: 372px;
-    background-image: url(../images/escavator-closeup.JPG);
+    background-image: url(images/escavator-closeup.JPG);
     height: 700px;
     background-position: center;
     -moz-background-size: cover;
@@ -990,7 +992,10 @@ img.footer-logo {
 }
 
 .animation-1 {
-  background-image: url(images/gjengen_laagendalsposten.jpg);
+  /* background-image: url(images/gjengen_laagendalsposten.jpg);
+   */
+    background-image: url(images/escavator-closeup.JPG);
+
   height: 700px;
   background-position: center;
   -moz-background-size: cover;
@@ -1000,6 +1005,8 @@ img.footer-logo {
   animation: 0;
 }
 .section-element {
+  background-image: url(images/escavator-closeup.JPG);
+
   /* background-image: url(../stordalen-entreprenor/images/banner3420.JPG); */
   background-size: cover;
   background-repeat: no-repeat;
@@ -1026,10 +1033,22 @@ img.footer-logo {
   float: right;
   display: contents;
 }
+
+.separate {
+  display: flex;
+}
 @media (max-width: 768px) {
   .section-element {
-
+    width: auto;
   }
+  .module-text-left {
+    width: 100%;
+    display: inline-table;
+}
+  /* .img-module-container-img-right {
+    display: flex !important;
+    flex-direction: column !important;
+  } */
 }
 .img-aside {
   height: 30rem;
@@ -1213,7 +1232,7 @@ img.footer-logo {
     bottom: 13px;
   }
   .section-element {
-    background-image: url(../stordalen-entreprenor/images/escavator-closeup.JPG);
+    background-image: url(images/escavator-closeup.JPG);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: right;
@@ -1222,10 +1241,10 @@ img.footer-logo {
     /* background-size: contain; */
     background-attachment: fixed;
   }
-  .dark-box {
+  /* .dark-box {
     display: block;
     padding-bottom: 6rem;
-  }
+  } */
   .reviews {
     width: 83%;
     left: 8%;
@@ -1249,6 +1268,21 @@ img.footer-logo {
     max-height: 436px;
   }
 }
+@media (max-width:768px) {
+  .separate {
+    flex-direction: column;
+  }
+  /* .module-text-left {
+flex-direction: column;
+  }
+  .module-img-right {
+    flex-direction: column;
+
+  } */
+}
+/* @media (min-width:751px) and (max-width:980px) { */
+
+/* } */
 @media (min-width:981px) and (max-width:1301px) {
   .animation-1 {
     max-height: 558px;
