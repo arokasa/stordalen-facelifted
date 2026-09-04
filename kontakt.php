@@ -33,7 +33,7 @@ include('header.php'); ?>
                 </div>
                 <div class="keyitem">
                     <h3>Bård Stordalen</h3>
-                    <img src="images/bard.JPG" class="keyPerson" alt="bard_stordalen"/>
+                    <img src="images/bard.JPG" class="keyPerson" alt="Bård Stordalen, daglig leder i Stordalen Entreprenør"/>
                     <div class="item">
                         <div class="kontakt">
                             <b>Daglig leder</b> <br><br>
