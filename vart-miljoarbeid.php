@@ -3,6 +3,7 @@ $page = 'vart-miljoarbeid.php';
 include('header.php'); ?>
 
 <title>Vårt miljøarbeid | Stordalen Entreprenør AS</title>
+
 <div class="animated-container">
     <div class="animation-1"></div>
 </div>
@@ -60,7 +61,7 @@ include('header.php'); ?>
                 Vi bidrar gjennom trygge arbeidsplasser, fokus på HMS, kompetanseutvikling og et godt arbeidsmiljø.
                 FNs bærekraftsmål 12
                 Vi bidrar gjennom økt gjenbruk av masser, redusert avfall, høy kildesorteringsgrad og mer effektiv ressursbruk.
-                <br><br><b>Mål for 2026<b><br><br>
+                <br><br><b>Mål for 2026</b><br><br>
                 For perioden 2026 arbeider vi mot følgende mål:
                 øke andelen sortert avfall og gjenbruk av masser på våre prosjekter 
                 redusere drivstofforbruket i virksomheten 
@@ -78,7 +79,7 @@ include('header.php'); ?>
                     <!-- <img src="images/miljøfyrtaarn-logo_2026.png" class="full-icon-logo" alt="miljøfyrtårn"/> -->
 
                 <br><br>
-                    <b>Ønsker du miljørapporten tilsendt på mail?</b><br> Send oss en e-post til:
+                    <b>Ønsker du miljørapporten tilsendt på mail? </b>Send oss en e-post til:
                         <a class="miljo" style="text-transform: lowercase;" href="mailto:post@stordalenas.no">post@stordalenas.no</a>
 
         
