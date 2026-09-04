@@ -1790,3 +1790,80 @@ body, html {
   }
 }
 
+.logo_miljøfyrtaarn_icon {
+height: 24rem;
+    display: list-item;
+    padding: 3rem;
+    top: -1rem;
+}
+@media (max-width: 1025px) {
+    .contact .container-right {
+        width: 65%;
+        padding-bottom: 45px;
+        top: 2rem;
+        left: -38%;
+    }
+    .contact .container-left {
+    /* display: table-caption; */
+    left: 3%;
+    width: auto;
+    padding-right: 5rem;
+  }
+  .logo_miljøfyrtaarn_icon {
+    height: 17rem;
+    display: list-item;
+    padding: 3rem;
+    top: -3rem;
+    left: 25rem;
+  }
+
+.logo_miljøfyrtaarn_icon {
+    height: 17rem;
+    display: list-item;
+    padding: 3rem;
+    top: -3rem;
+    /* left: 25rem; */
+    right: -20rem;
+  }
+}
+@media (max-width:768px) {
+  .logo_miljøfyrtaarn_icon {
+    /* width: 100% !important; */
+  }
+  .logo_miljøfyrtaarn_icon {
+    height: 17rem;
+    display: list-item;
+    padding: 3rem;
+    top: -3rem;
+    left: 25rem;
+  }
+}
+
+.contact .container-left {
+    /* display: table-caption; */
+    left: 3%;
+    width: 45%;
+}
+
+.contact .container-right {
+    width: 45%;
+    float: right;
+    right: -9%;
+}
+
+
+
+.contact .container-left {
+    /* display: table-caption; */
+    left: 3%;
+    width: 55%
+}
+
+.logo_miljøfyrtaarn_icon {
+    height: 20rem;
+    display: list-item;
+    /* padding: 3rem; */
+    top: -1rem;
+    /* left: 0rem; */
+    /* right: 3rem; */
+}
