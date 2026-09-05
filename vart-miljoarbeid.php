@@ -94,13 +94,7 @@ include('header.php'); ?>
           
         </div>
 
-<!--  -----------------------------------                     ---------------------- -->
-
-
-<<<<<<< HEAD
     </div>
-=======
->>>>>>> 43aff87 (add experimental css changes)
 </div>
 </div>
 
