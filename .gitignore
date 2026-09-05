@@ -1,7 +1,8 @@
-<<<<<<< HEAD
+
 .vscode/
 todo.txt
-=======
+
 .vscode/
 todo.txt
->>>>>>> 1cc72a9 (add .gitignore)
+release_notes.txt
+

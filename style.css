@@ -1680,9 +1680,9 @@ img.hover-shadow {
   #text-box-img {
     width: 97%;
   }
-  .img-link-contain {
+  /* .img-link-contain {
 
-  }
+  } */
 }
 @media (max-width: 1014px) {
   .read-more-link {
@@ -1821,7 +1821,7 @@ body, html {
     width: auto;
     max-width: none;
     min-width: 0;
-    /* left: 0; */
+    left: -3%;
     /* right: 0; */
     overflow-wrap: break-word;
 }
@@ -1873,3 +1873,11 @@ body, html {
         padding: 0;
     }
 } */
+
+/* mer luft over logo i footer når man er inne på vart-miljoarbeid.php
+  ... Kreves mer utforsking om hvorfor den oppfører seg sånn */
+img.footer-logo {
+    width: 275px;
+    top: 6rem;
+    left: 6%;
+}
