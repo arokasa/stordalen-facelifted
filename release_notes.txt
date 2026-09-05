@@ -1,0 +1,7 @@
+----------------------------------------------------
+RELEASE NOTES FOR SECOND AUTUMN RELEASE - 05.09.2026
+----------------------------------------------------
+
+* add logo to vart-miljoarbeid.php
+* re-implement slideshow in header
+* remove 'Prosjekter' from menu
