@@ -44,7 +44,7 @@ include('header.php'); ?>
                 </div>
                 <div class="keyitem">
                     <h3>Knut Stordalen</h3>
-                    <img src="images/knut.JPG" class="keyPerson" alt="knut_stordalen"/>
+                    <img src="images/knut.JPG" class="keyPerson" alt="Knut Stordalen, transportleder i Stordalen Entreprenør"/>
                     <div class="item">
                         <div class="kontakt">
                             <b>Transportleder</b> <br><br>
@@ -55,7 +55,7 @@ include('header.php'); ?>
                 </div>
                 <div class="keyitem">
                     <h3>Ørjan Stordalen</h3>
-                    <img src="images/orjan.JPG" class="keyPerson" alt="orjan_stordalen"/>
+                    <img src="images/orjan.JPG" class="keyPerson" alt="Ørjan Stordalen, anleggsleder i Stordalen Entreprenør"/>
                     <div class="item">
                         <div class="kontakt">
                             <b>Anleggsleder</b> <br><br>
@@ -66,7 +66,7 @@ include('header.php'); ?>
                 </div>
                 <div class="keyitem">
                     <h3>Lena Rolfsrud</h3>
-                    <img src="images/lena.JPG" class="keyPerson" alt="lena_rolfsrud"/>
+                    <img src="images/lena.JPG" class="keyPerson" alt="Lena Rolfsrud, kontormedarbeider i Stordalen Entreprenør"/>
                     <div class="item">
                         <div class="kontakt">
                             <b>Kontormedarbeider</b> <br><br>
@@ -77,7 +77,7 @@ include('header.php'); ?>
                 </div>
                 <div class="keyitem">
                     <h3>Sidsel Stordalen</h3>
-                    <img src="images/sidsel.JPG" class="keyPerson" alt="sidsel_stordalen"/>
+                    <img src="images/sidsel.JPG" class="keyPerson" alt="Sidsel Stordalen, kontorleder i Stordalen Entreprenør"/>
                     <div class="item">
                         <div class="kontakt">
                             <b>Kontorleder</b> <br><br>
@@ -145,7 +145,7 @@ include('header.php'); ?>
 
 
                 // </script>
-                <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBJKnZ3WVN0kDUaguNSUXZCKeAOfLZRkms&callback=initMap"></script> -->
+                 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBJKnZ3WVN0kDUaguNSUXZCKeAOfLZRkms&callback=initMap"></script> -->
 
             </div>
         </div>
