@@ -1,0 +1,16 @@
+User-agent: *
+# Tillat alt innhold på selve nettsiden
+Allow: /
+
+# Blokker mapper som kun inneholder PHP-logikk og funksjoner
+Disallow: /includes/
+Disallow: /config/
+Disallow: /backend/
+Disallow: /ajax/
+
+# Blokker eventuelle administrative logger eller midlertidige filer
+Disallow: /logs/
+Disallow: /tmp/
+
+# Fortell søkemotorene hvor sitemapet ditt ligger
+Sitemap: https://stordalenas.no
