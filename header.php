@@ -21,7 +21,7 @@
 <body>
 <div class="wrapper" id="wrapper">
     <div class="header" id="header">
-        <div class="topmenu-desktop" id="topmenu-desktop">
+        <!-- <div class="topmenu-desktop" id="topmenu-desktop">
             <ul>
                 <li class="topmenu-item" id="topmenu-item">
                     <a href="login.php">Logg inn</a>
@@ -30,7 +30,7 @@
                     <a href="logout.php">Logg ut</a>
                 </li>
             </ul>
-        </div>
+        </div> -->
         <div class="nav-desktop" id="nav-desktop">
             <a href="index.php">
                 <img src="images/logo.png" class="logo" alt="logo"/>
