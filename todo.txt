@@ -1,0 +1,10 @@
+** TODO **
+
+* Add more info on each service, ref FB, but rewrite and probably more filling info. E.g. add links to projects.
+    Make sure it's not duplicate tezxt.
+
+* Fix logo padding on top, in footer of miljoarbeid page
+* Fix logos on front page for desktop 
+    * add links 
+    * resize so they are equal in size
+    * improve responsiveness
