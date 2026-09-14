@@ -99,9 +99,6 @@
                 </ul>
             </nav>
         </div>
-
-        <div class="nav-mobile">
-        </div>
     </div>
     <!-- Header END  -->
     <?php ?>
