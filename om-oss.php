@@ -33,7 +33,7 @@ include('header.php'); ?>
             </p>
 
             <p>
-                Vi er en mellomstor bedrift og består i dag av 19 ansatte.
+                Vi er en mellomstor bedrift og består i dag av 25 ansatte.
                 Du finner oss i hjertet av Jondalen, like i utkanten av Kongsberg.
             </p>
         </div>
@@ -88,8 +88,11 @@ include('header.php'); ?>
             </p>
         </div>
 
-        <div class="omoss-image"
+        <!-- <div class="omoss-image"
              style="background-image: url('img/P6031332-3.JPG');">
+        </div> -->
+        <div class="omoss-image"
+             style="background-image: url('img/P6031365.JPG');">
         </div>
 
     </section>
