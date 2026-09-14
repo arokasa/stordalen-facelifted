@@ -37,7 +37,6 @@
     </div>
 </div>
 <script src="functions.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBJKnZ3WVN0kDUaguNSUXZCKeAOfLZRkms&callback=initMap&libraries=&v=weekly"></script>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 </div> <!-- Closing wrapper -->
 </body>
