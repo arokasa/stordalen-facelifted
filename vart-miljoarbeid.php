@@ -1,5 +1,5 @@
 <?php
-$page = 'vart-miljoarbeid.php';
+$page = 'vart-miljoarbeid';
 include('header.php'); ?>
 
 <title>Vårt miljøarbeid | Stordalen Entreprenør AS</title>
