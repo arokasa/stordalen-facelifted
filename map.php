@@ -1,7 +1,3 @@
-<?php
-
-
-?>
 <div id="googleMap" style="width:100%;height:400px;"></div>
 
 <script>
@@ -15,5 +11,3 @@
 </script>
 
 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBJKnZ3WVN0kDUaguNSUXZCKeAOfLZRkms&callback=myMap"></script>
-
-<?php ?>
