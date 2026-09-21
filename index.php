@@ -50,8 +50,8 @@ include('header.php'); ?>
             </div>
         </div>
         <div class="img-link-contain">
-            <h2 class="title"><a class="h2_title" href="kontakt.php" target="_blank" rel="noopener noreferrer">Kontakt oss</a></h2>
-            <a href="kontakt.php" target="_blank" rel="noopener noreferrer">
+            <h2 class="title"><a class="h2_title" href="kontakt.php">Kontakt oss</a></h2>
+            <a href="kontakt.php">
                 <img src="img/_8277742.JPG" class="box-image" alt="gravemaskin"/> 
 
             </a>
@@ -62,12 +62,12 @@ include('header.php'); ?>
             </div>
             <div class="read-more-link">
                 <!-- <a href="om-oss.php" target="_blank" rel="noopener noreferrer">Du kan lese mer om oss her &#8594;</a> -->
-                <a href="kontakt.php" target="_blank" rel="noopener noreferrer">Ta kontakt med oss &#8594;</a>
+                <a href="kontakt.php">Ta kontakt med oss &#8594;</a>
             </div>
         </div>
         <div class="img-link-contain">
-            <h2 class="title"><a class="h2_title" href="galleri.php" target="_blank" rel="noopener noreferrer">Bildegalleri</a></h2>
-            <a href="galleri.php" target="_blank" rel="noopener noreferrer">
+            <h2 class="title"><a class="h2_title" href="galleri.php">Bildegalleri</a></h2>
+            <a href="galleri.php">
                 <!-- <img src="images/banner5600.JPG" class="box-image" alt="gravemaskin"/> -->
                 <img src="img/_8276346-0.JPG" class="box-image" alt="gravemaskin"/>
             </a>
@@ -78,12 +78,12 @@ include('header.php'); ?>
                 </p>
             </div>
             <div class="read-more-link">
-                <a href="om-oss.php" target="_blank" rel="noopener noreferrer">Til bildegalleriet &#8594;</a>
+                <a href="galleri.php">Til bildegalleriet &#8594;</a>
             </div>
         </div>
         <div class="img-link-contain">
-            <h2 class="title"><a class="h2_title" href="karriere.php" target="_blank" rel="noopener noreferrer">Karriere</a></h2>
-            <a href="karriere.php" target="_blank" rel="noopener noreferrer">
+            <h2 class="title"><a class="h2_title" href="karriere.php">Karriere</a></h2>
+            <a href="karriere.php">
                 <!-- <img src="images/P6031221.JPG" class="box-image" alt="gravemaskin"/> -->
                 <img src="img/P6031221.JPG" class="box-image" alt="gravemaskin"/>
             </a>
@@ -94,7 +94,7 @@ include('header.php'); ?>
                 </p>
             </div>
             <div class="read-more-link">
-                <a href="karriere.php" target="_blank" rel="noopener noreferrer">Les mer her &#8594;</a>
+                <a href="karriere.php">Les mer her &#8594;</a>
             </div>
         </div>
     </div>
