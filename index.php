@@ -35,12 +35,10 @@ include('header.php'); ?>
 
     <div class="light-container">
         <div class="img-link-contain">
-            <h2 class="title"><a class="h2_title" href="om-oss.php" target="_blank" rel="noopener noreferrer">Om oss</a></h2>
-            <a href="om-oss.php" target="_blank" rel="noopener noreferrer">
+            <h2 class="title"><a class="h2_title" href="om-oss.php">Om oss</a></h2>
+            <a href="om-oss.php">
                 <img src="img/P6030494.JPG" class="box-image" alt="gravemaskin"/>
                 <!-- <img src="images/firmabil.JPG" class="box-image" alt="gravemaskin"/> -->
-
-
             </a>
             <div id="text-box-img">
                 <p class="text-contain">
@@ -48,7 +46,7 @@ include('header.php'); ?>
                 </p>
             </div>
             <div class="read-more-link">
-                <a href="om-oss.php" target="_blank" rel="noopener noreferrer">Om oss og hva vi gjør &#8594;</a>
+                <a href="om-oss.php">Om oss og hva vi gjør &#8594;</a>
             </div>
         </div>
         <div class="img-link-contain">
