@@ -61,7 +61,14 @@
 ------------------------------------------------------------
 [] Change the links that open in new tab who shouldn't do this
 ------------------------------------------------------------
-
+[] Change header image for small screens
 ------------------------------------------------------------
 
 ------------------------------------------------------------
+h1, h2, h3, h4, h5 {
+   text-transform: uppercase;
+   z-index: 1;
+   padding: .5rem;
+-  white-space: nowrap;
++  /* white-space: nowrap; */
+}
