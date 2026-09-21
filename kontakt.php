@@ -55,23 +55,12 @@ include('header.php'); ?>
                 </div>
                 <div class="keyitem">
                     <h3>Ørjan Stordalen</h3>
-                    <img src="images/orjan.JPG" class="keyPerson" alt="Ørjan Stordalen, anleggsleder i Stordalen Entreprenør"/>
+                    <img src="images/orjan-stordalen-prosjektleder.JPG" class="keyPerson" alt="Ørjan Stordalen, prosjektleder i Stordalen Entreprenør AS"/>
                     <div class="item">
                         <div class="kontakt">
-                            <b>Anleggsleder</b> <br><br>
+                            <b>Prosjektleder</b> <br><br>
                             <b>Tlf:</b><a href="tel:91679101"> 916 79 101 </a><br>
                             <b>Epost:</b> <a href="mailto:orjan@stordalenas.no">orjan@stordalenas.no</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="keyitem">
-                    <h3>Lena Rolfsrud</h3>
-                    <img src="images/lena.JPG" class="keyPerson" alt="Lena Rolfsrud, kontormedarbeider i Stordalen Entreprenør"/>
-                    <div class="item">
-                        <div class="kontakt">
-                            <b>Kontormedarbeider</b> <br><br>
-                            <b>Tlf:</b><a href="tel:93442664"> 934 42 664 </a><br>
-                            <b>Epost:</b> <a href="mailto:lena@stordalenas.no">lena@stordalenas.no</a>
                         </div>
                     </div>
                 </div>
