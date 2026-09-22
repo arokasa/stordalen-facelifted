@@ -30,8 +30,8 @@
         <div class="footer-item links">
             <a href="https://www.facebook.com/Stordalen-Entrepren%C3%B8r-As-365350660208729/" target="_blank" rel="noopener noreferrer">
                 <button class="fb-btn"><i class="fa fa-facebook-f"></i></button>
-                <!-- <h3 class="fb-link">Følg oss på Facebook!</h3> -->
-                <h3 class="fb-link">Besøk oss på Facebook</h3>
+                <!-- <h3 class="fb-link">Følg oss på Facebook!</h3> // Har disse noen som helst effekt? Ser ikke sånn ut...
+                <h3 class="fb-link">Besøk oss på Facebook</h3> -->
             </a>
         </div>
     </div>
