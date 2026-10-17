@@ -52,10 +52,12 @@
 
     You can stop Google from indexing your login and logout pages
     by adding a noindex meta tag to the HTML code of those specific
-    pages.Step 1: Add the Noindex TagOpen the template file or code
+    pages.
+    Step 1: Add the Noindex TagOpen the template file or code
     for your login and logout pages. Find the <head> section of the
     HTML document. Add this line of code inside it:
         html<meta name="robots" content="noindex, nofollow">
+
 ------------------------------------------------------------
 [X] Remove map.php from server
 ------------------------------------------------------------
@@ -63,12 +65,70 @@
 ------------------------------------------------------------
 [] Change header image for small screens
 ------------------------------------------------------------
-
+[] Implement scrolling feature on mobile menu
 ------------------------------------------------------------
-h1, h2, h3, h4, h5 {
-   text-transform: uppercase;
-   z-index: 1;
-   padding: .5rem;
--  white-space: nowrap;
-+  /* white-space: nowrap; */
-}
+[] Legge til 'Siden er under vedlikehold'
+[] Lage knapp; 'Du kan få miljørapporten tilsendt på epost.' eller 'Bestill miljørapporten'
+    eller: 'Ønsker du miljørapporten tilsendt på mail? {Bestill miljørapport}' <-- knapp
+[] Legge til IG knapp
+[] Legge til alt-tags i meny-elementene - spør chatgpt om alt skal være i li, a, eller hva
+[] Fjern unødvendig whitespace under siste item i kontakt.php
+[] Add hover effect on links & manu items --> stordalen-rød
+[] Add new images for header slideshow
+[] Add dark mode feature
+[] Log in on domeneshop - try at least and call Stian if it doesn't work
+[] Lage undersider i meny for 'Hva vi gjør' --> Sprengning --> Utomhus- og grøntarbeid --> Veivedlikehold --> Grunnarbeider --> etc.
+------------------------------------------------------------------------------------------------------------------------
+[] Fjerne bilder fra git - dvs kopiere hele dette repoet på pc, og flytte til ny mappe, lage nytt git repo
+[] Create database
+[] Finne en måte å laste bilder raskt
+------------------------------------------------------------------------------------------------------------------------
+
+Møte krav til tilgjengelighet:
+    * Alt-tekst = tilgjengelighet først, SEO som bonus *
+
+[] Legg inn alt-attributter på kontakt.php
+[] Legg til søkefunksjon
+[] Samle info om prosjekter
+[] Legge inn alt-tekster
+[] Rydde opp i kontakt.php
+[] Rydde opp i karriere.php
+[] Rydde opp i om-oss.php
+[] Legge inn lenket skjermbilde av kart på kontakt.php *
+[] Bytte ut bilder i header-slideshow
+[] Oppdatere og lenke logoer
+[] Legg til passord-beskyttelse for /staging
+
+
+
+------------------------------------------------------------------------------------------------------------------------
+PROSJEKTER
+------------------------------------------------------------------------------------------------------------------------
+
+COOP KRØDEREN
+------------------------------------------------------------------------------------------------------------------------
+hvilken rolle hadde stordalen entreprenør as? 6. september 2026 Stordalen Entreprenør AS
+hadde ansvaret for grunnarbeidet og utomhusarbeidet på prosjektet.Selskapet fungerte som
+en sentral underleverandør med ansvar for blant annet:Graving og planering av
+tomtenVann- og avløpsanlegg (VA)Ferdigstilling av uteområdene (herunder asfaltering, steinlegging
+og opparbeidelse av parkeringsplasser)Vil du ha mer informasjon om hvilke andre lokale underleverandører
+som bidro på bygget, eller ønsker du detaljer om selve miljøsertifiseringen av trebygget?
+------------------------------------------------------------------------------------------------------------------------
+fra https://nordiskfjellsprengning.no/referanser/prosjekt-sprengning-for-gangvei/
+Prosjekt: Sprengning for gangvei
+Oppdragsgiver: Stordalen Entreprenør
+Byggherre: Stordalen Entreprenør AS
+Leverte tjenester: Andre tjenester, Sprengning for gangvei
+Tidsperiode: Juni 2021
+Sted: Notodden (?)
+
+
+
+? SPØRSMÅL ?
+
+* Burde aria-hidden brukes flere steder enn på ikoner, som feks logo, knapper?
+
+* Spørre Ørjan om å bruke mye tid på at bildene, for at de skal lastes raskere
+
+
+* HUSK logge inn på domeneshop

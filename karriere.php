@@ -10,7 +10,7 @@ include('header.php'); ?>
 
 <div class="main" id="main">
 
-```
+
 <div class="about om-oss">
     <div class="container">
         <h2 class="title">Karriere</h2>

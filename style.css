@@ -1,3 +1,7 @@
+  /* =========================================================
+   GLOBALE REGLER
+   ========================================================= */
+
 
 * { margin: 0; padding: 0; }
 html { overflow-y: scroll;}
@@ -12,6 +16,7 @@ li {
   font-family: 'Oswald', sans-serif;
   list-style: none;
 }
+
 h1, h2, h3, h4, h5 {
   font-family: 'Oswald', sans-serif;
   font-family: 'Catamaran', sans-serif;
@@ -19,7 +24,8 @@ h1, h2, h3, h4, h5 {
   text-transform: uppercase;
   z-index: 1;
   padding: .5rem;
-  white-space: nowrap;
+  white-space: normal; /* ensure page titles doesn't flow out of frame */
+  /* white-space: nowrap; */
 }
 
 .title-center {
@@ -878,8 +884,8 @@ li .nav-mobile-item {
 .animation-1 {
   background-image: url(images/escavator-closeup.JPG);
   animation: magic-slideshow 15s infinite linear;
-  min-height: 200px;
-  height: auto;
+  /* min-height: 200px; */
+  /* height: auto; */
   height: 700px;
   background-position: center bottom;
   display: block;
@@ -1004,7 +1010,8 @@ img.footer-logo {
 .animation-1 {
   /* background-image: url(images/gjengen_laagendalsposten.jpg);*/
   background-image: url(images/escavator-closeup.JPG); /* backup-image */
-  height: 700px;
+  /* height: 700px; */
+  height: 50vh !important;
   background-position: center;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -2151,4 +2158,3 @@ img.footer-logo {
         height: 3px;
     }
 }
-

@@ -87,7 +87,13 @@ include('header.php'); ?>
                     </div>
                 </div>
             </div>
-
+            <div class="google-map">
+                <div id="googleMap"></div>
+                    <img src="images/kart_stordalen-entreprenor-as.jpg" alt=""/>
+                <!-- BYTT UT MED SKJERMBILDE -->
+                <div id="map"></div>
+                <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d64419.05138142125!2d9.531089834699916!3d59.69797414618079!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4640c50b43b079ed%3A0x645d1353c82a414!2sBj%C3%B8rnholtveien%204%2C%203614%20Kongsberg!5e0!3m2!1sno!2sno!4v1593660699253!5m2!1sno!2sno" width="100" height="650" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> -->
+            </div>
 
             <div class="container-right">
                 <!-- <div class="about om-oss">
@@ -96,12 +102,7 @@ include('header.php'); ?>
                     <div class="first"></div>
                   </div>
                 </div> -->
-                <div class="google-map">
-                    <div id="googleMap"></div>
-                    <!-- BYTT UT MED SKJERMBILDE -->
-                    <div id="map"></div>
-                    <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d64419.05138142125!2d9.531089834699916!3d59.69797414618079!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4640c50b43b079ed%3A0x645d1353c82a414!2sBj%C3%B8rnholtveien%204%2C%203614%20Kongsberg!5e0!3m2!1sno!2sno!4v1593660699253!5m2!1sno!2sno" width="100" height="650" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> -->
-                </div>
+
                 <!-- <script>
 
                     (function(exports) {

@@ -1,12 +1,14 @@
 
 <div class="footer-desktop">
     <div class="footer-element border-none">
-        <a href="index.php">
-            <img src="images/logo.png" class="footer-logo" alt="stordalen-as-logo"/>
+        <a href="index.php" aria-label="Stordalen Entreprenør AS logo">
+            <img src="images/logo.png" class="footer-logo" alt="Stordalen Entreprenør AS logo"/>
         </a>
     </div>
+
     <div class="footer-element">
         <h3>Stordalen Entreprenør AS</h3>
+
         <div class="footer-item">
             <b>Org. nr:</b> 995 640 791 <br><br>
             <div class="adresse" title="adresse">
@@ -19,6 +21,7 @@
             <a href="mailto:faktura@stordalenas.no"><i class="fa fa-envelope" style="font-size:24px"></i>faktura@stordalenas.no</a>
         </div>
     </div>
+
     <div class="footer-element">
         <div class="footer-item links">
             <a href="kontakt.php">Kontakt</a><br>
@@ -27,13 +30,20 @@
             <a href="vart-miljoarbeid.php">Vårt miljøarbeid</a><br>
             <a href="galleri.php">Bildegalleri</a><br>
         </div>
+
         <div class="footer-item links">
-            <a href="https://www.facebook.com/Stordalen-Entrepren%C3%B8r-As-365350660208729/" target="_blank" rel="noopener noreferrer">
-                <button class="fb-btn"><i class="fa fa-facebook-f"></i></button>
-                <!-- <h3 class="fb-link">Følg oss på Facebook!</h3> // Har disse noen som helst effekt? Ser ikke sånn ut...
-                <h3 class="fb-link">Besøk oss på Facebook</h3> -->
+            <a href="https://www.facebook.com/Stordalen-Entrepren%C3%B8r-As-365350660208729/"
+            class="fb-btn"
+            aria-label="Følg Stordalen Entreprenør AS på Facebook"
+            target="_blank"
+            rel="noopener noreferrer">
+            <button class="fb-btn">
+                <!-- aria-hidden=true gjør at skjermleseren slipper å lese opp selve FB-ikonet i tillegg -->
+                <i class="fa fa-facebook-f" aria-hidden="true"></i>
+            </button>
             </a>
         </div>
+
     </div>
 </div>
 <script src="functions.js"></script>
