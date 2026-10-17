@@ -2,11 +2,9 @@
 $page = 'om-oss';
 include('header.php'); ?>
 
-<title>Om oss | Stordalen Entreprenør AS</title>
+<!-- CLEANED UP HTML -->
 
-<div class="animated-container">
-    <div class="animation-1"></div>
-</div>
+<title>Om oss | Stordalen Entreprenør AS</title>
 
 <div class="main" id="main">
 

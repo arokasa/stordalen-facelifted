@@ -3,9 +3,6 @@ $page = 'hjem';
 include('header.php'); ?>
 <!-- Image slideshow START -->
 <title>Stordalen Entreprenør AS</title>
-    <div class="animated-container">
-        <div class="animation-1"></div>
-    </div>
 
 
 <!-- <div class="banner"> -->

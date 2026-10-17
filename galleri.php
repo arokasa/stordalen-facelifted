@@ -3,10 +3,6 @@
   include('header.php'); ?>
 
   <title>Galleri | Stordalen Entreprenør AS</title>
-  <!-- <div class="animation-still"></div> -->
-  <div class="animated-container">
-    <div class="animation-1"></div>
-  </div>
 
   <!-- Main-content START -->
   <div class="main" id="main">

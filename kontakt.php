@@ -4,9 +4,7 @@ $page = 'kontakt';
 include('header.php'); ?>
 
 <title>Kontakt oss | Stordalen Entreprenør</title>
-<div class="animated-container">
-    <div class="animation-1"></div>
-</div>
+
 <div class="main" id="main">
     <div class="about om-oss">
         <div class="container">
@@ -96,46 +94,6 @@ include('header.php'); ?>
             </div>
 
             <div class="container-right">
-                <!-- <div class="about om-oss">
-                  <div class="container">
-                    <h2 class="title">Her finner du oss</h2>
-                    <div class="first"></div>
-                  </div>
-                </div> -->
-
-                <!-- <script>
-
-                    (function(exports) {
-                        // "use strict"; 
-
-                //         function initMap() {
-                //             var myLatLng = {
-                //                 lat: 59.704800,
-                //                 lng: 9.528474
-                //             };
-                //             var googleMap = new google.maps.Map(document.getElementById("googleMap"), {
-                //                 zoom: 10,
-                //                 mapTypId: google.maps.MapTypeId.ROADMAP,  //no effect
-                //                 center: myLatLng
-                //             });
-                //             var marker = new google.maps.Marker({
-                //                 position: myLatLng,
-                //                 map: googleMap,
-                //                 title: "Stordalen Entreprenør AS",
-                //                 url: 'https://www.google.com/maps?sll=59.704778,9.528472&q=4+Bj%C3%B8rnholtveien+Kongsberg,+Buskerud,+3614,+Norway&z=12',
-                //             });
-                //             google.maps.event.addListener(marker, 'click', function() {
-                //                 window.location.href = this.url;
-                //             });
-
-                //         }
-
-                //         exports.initMap = initMap;
-                //     })((this.window = this.window || {}));
-
-
-                // </script>
-                 <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBJKnZ3WVN0kDUaguNSUXZCKeAOfLZRkms&callback=initMap"></script> -->
 
             </div>
         </div>

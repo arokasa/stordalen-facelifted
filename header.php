@@ -100,5 +100,10 @@
             </nav>
         </div>
     </div>
+
+    <div class="animated-container">
+        <div class="animation-1"></div>
+    </div>
+
     <!-- Header END  -->
     <?php ?>
